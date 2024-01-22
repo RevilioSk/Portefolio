@@ -53,3 +53,9 @@ img {
     text-align: center;
     padding-bottom: 10px;
 }
+
+.ImCV {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
