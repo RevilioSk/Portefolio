@@ -37,6 +37,21 @@ img {
     border-radius: 3%;
 }
 
+p{
+    color: #fff;
+    margin-inline: 800px;
+    font-size: larger;
+}
+
+hr{
+    border-bottom: solid aqua; 
+    border-top: #000000;
+    margin-bottom: 25px;
+}
+
+a{
+    color: aqua;
+}
 
 .ImagesProjets {
     display: flex;
@@ -54,7 +69,7 @@ img {
     padding-bottom: 10px;
 }
 
-.ImCV {
+.ImagesCentre{
     display: flex;
     justify-content: space-around;
     align-items: center;
