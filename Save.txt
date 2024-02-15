@@ -1,0 +1,44 @@
+
+Projet 1 :
+
+
+<p>J'ai donc programmé ce jeu dans lequel le joueur incarne un souverain devant satifaire son royaume afin de le faire grandir. Pour cela il est confronté à plusieurs choix qui lui feront gagner et perdre des ressources. C'est donc à lui de juger ces choix et leurs conséquences pour le développement du royaume.</p>
+
+
+
+
+
+Projet 2 :
+
+
+<p>Le but de ce jeu est de gérer la hauteur de l'oiseau contrôler par le joueur afin d'éviter les tuyaux qui défilent sur l'écran. Mais il faut aussi faire attention à l'endurance qui descant quand on fait voler l'oiseau.</p>
+        <p>Grâce à ce projet j’ai acquis des compétences en C++ ainsi qu’en game-design et game-development.  Ce projet m’a aussi permis de développer ma capacité à me fixer des objectifs, organiser les taches ainsi que de les prioriser.</p>
+
+
+
+Projet 3 : 
+
+
+<p>Ceci m’a refait découvrir le langage et j’ai pu le retravailler. Nous avons utilisé la bibliothèque graphique Pygames que j'avais déjà utilisé auparavant. Mes camarades ne connaissant pas ce langage de programmation je leur ai appris à l’utiliser et j’ai été à l’écoute de leurs besoins avec ce nouvel environnement.</p>
+        <p>Ce projet traitait d’une simulation proie-prédateur et nous avons appris les bases du deep-learning afin de gérer chaque génération de cette simulation. Après chaque renouvellement les nouvelles génération ne gardaient que le meilleur des générations précédentes en apprenant ce que les faisaient survivre (endurance, rapidité, etc...)</p>
+        <p>Comme ce projet était en groupe il fallait aussi le gérer humainement. J’ai pris la tête du groupe et j’ai su répartir les différents membres à des taches sur lesquelles ils se sentaient à l’aise et avec des compétences qu’ils maitrisaient. J’ai réussi à savoir leurs compétences et à les mettre en avant dans le groupe. De plus j’ai su communiquer avec mes différents camarades lorsqu’une tache prenait trop de temps à se concrétiser ou lorsque que je sentais que quelque chose ne leur allait pas dans le projet.</p>
+
+
+
+Projet 4 : 
+
+<p>J'ai suivis plusieurs tutoriel afin d'apprendre la gestion d'un jeu sous unity afin de mieux comprendre ce moteur. Je voulais mieux le connaitre car il est l'un des moteur de jeu les plus réputé et qu'il m'est toujours aggrable de connaitre de nouvelles choses. 
+        </p>
+
+
+Projet 5 : 
+
+<p>Ce projet reprant le principe des combats dans le jeu Pokemon. J'ai décidé cependant de tout reprogrammer moi-même afin de changer les calculs des dégâts pour laisser moi d'aléatoire. J'ai aussi reprogrammer tous les changements qui affectent ce calcul (Statistiques dynamiques, météo qui modifie les capacités, statut du pokémon, etc..).</p>
+        <p> J’ai appris à faire face à des bugs de plus en plus imposants tout en gardant en vue mes objectifs. Face à ces bugs j’ai dû changer de méthode afin de pouvoir parfois contourner le problème pour enfin trouver une meilleure solution. Cela m’a aussi amélioré ma créativité que ce soit pour inventer des entités pour le jeu ou alors écrire son scénario. J’ai présenté ces projets à différents amis et différentes connaissances afin d’avoir des retours et cela m’a appris à accepter la critique tout en restant lucide sur la constructivité de leurs remarques.</p>
+
+
+
+Projet 6 :
+
+
+<p>Cette fois ci le but du jeu est d'utiliser ses capacités afin de battre différents ennemis. Au bout de dix ennemis un boss apparait avec des statistiques plusélevées. Ce jeu est le principe des rogues likes de faire choisir entre différents objets au joueur après chaque boss vaincu. Ces objets permetteront au joueur de s'améliorer.</p>
