@@ -73,3 +73,8 @@ a{
     justify-content: space-around;
     align-items: center;
 }
+
+ul, li{
+    color: #fff;
+    list-style: inside;
+}
