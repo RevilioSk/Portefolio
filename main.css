@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-color: #000000;
+    background-color: #0f0f0f;
 }
 
 nav  a {
@@ -30,11 +30,13 @@ nav {
 
 h1 {
     text-align: center;
-    color: #0c7cbd;
+    color: #09aad3;
 }
 
 img {
-    border-radius: 3%;
+    border-radius: 2%;
+    border: #ffffff;
+    border-style: solid;
 }
 
 p{
@@ -46,10 +48,6 @@ hr{
     border-bottom: solid aqua; 
     border-top: #000000;
     margin-bottom: 25px;
-}
-
-a{
-    color: aqua;
 }
 
 .ImagesProjets {
@@ -68,13 +66,19 @@ a{
     padding-bottom: 10px;
 }
 
-.ImagesCentre{
+.PresProj {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    flex-direction: column;
+    border: solid;
+    border: #fff;
+    border-style: solid;
+    border-radius: 2%;
 }
 
-ul, li{
-    color: #fff;
-    list-style: inside;
+
+.ListCompProj{
+    display: flex;
+    flex-direction: row;
+    gap : 30px;
+    padding-left: 30px;
 }
