@@ -46,6 +46,11 @@ h1 {
     color: #09aad3;
 }
 
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
 img {
     border-radius: 2%;
     border: #ffffff;
