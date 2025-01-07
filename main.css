@@ -2,12 +2,10 @@
 // <weight>: Use a value from 300 to 800
 
 .open-sans-testpolice {
-  font-family: "Open Sans", serif;
-  font-optical-sizing: auto;
-  font-weight: 350;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+    font-family: "Open Sans", sans-serif; /* Assure-toi que c'est bien Open Sans */
+    font-weight: 350; /* Ajuste le poids selon ton besoin */
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 body{
@@ -46,8 +44,8 @@ h1 {
     color: #09aad3;
 }
 
-h2 {
-    text-align: center;
+h2, .open-sans-testpolice {
+    font-family: "Open Sans", sans-serif; /* S'assure que Open Sans est utilisé */
     color: #ffffff;
 }
 
